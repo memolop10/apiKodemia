@@ -1,0 +1,22 @@
+{
+  "name": "appkodemia",
+  "version": "1.0.0",
+  "description": "app academia kodemia ",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "node",
+    "express"
+  ],
+  "author": "memolop10",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12",
+    "nodemon": "^1.18.6"
+  }
+}
